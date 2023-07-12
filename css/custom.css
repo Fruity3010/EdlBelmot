@@ -1,0 +1,11 @@
+/* Add here all your CSS customizations */
+.redhover:hover{
+    color:rgb(255,0,0) ;
+}
+.headertext{
+    font-weight: 650;
+ padding: 28px 20px;
+}
+.headertext:hover{
+    color:rgb(255,0,0) ;
+}
